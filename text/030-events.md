@@ -1,26 +1,13 @@
 # Events
 
-## Conferences
+## Conferences and Symposia
 
-Conferences held at the University are eligible for archiving.
+Conferences held at the University are eligible for archiving. Types of content may include:
 
-Examples include:
-
-- Black Lives Matter in Research
-- Male Enrollment and Graduate Alliance (MEGA) Conference
-- 
-
-## Symposia
-
-Examples of symposia inclue:
-
-- Student Research Symposium
+- Slide decks
+- Video recordings
+- Manuscripts
 
 ## Events
 
-Event series should compromise multiple events. Stand-alone events should be added at the department level.
-
-Examples of events include:
-
-- University Authors Recognition Program
-- Sustainability Seminar Series
+Event series should be comprised of multiple events. Stand-alone events should be added at the department level.

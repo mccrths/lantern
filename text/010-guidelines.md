@@ -4,17 +4,17 @@
 
 The mission of the Montclair State University Digital Commons is to collect, preserve, and make accessible, scholarly and creative works, research data, and other materials produced by the faculty, staff and students of Montclair State University. A service of Sprague Library, the repository provides free, worldwide access to the scholarly, creative, and cultural works of Montclair State University.
 
-All works in the Montclair State University Digital Commons are publicly available; the only items that may not be available are those under temporary embargo by the publisher. If you have any questions please contact us at <macro cloak_email address="digitalcommons@montclair.edu" link="1">.
+All works in the Montclair State University Digital Commons are publicly available; the only items that may not be available are those under temporary embargo by the publisher. If you have any questions please contact us at digitalcommons@montclair.edu.
 
 ### About Institutional Repositories
 
-Institutional Repositories (IRs) bring together all of a University's research under one umbrella, with an aim to preserve and provide access to that research. IRs are an excellent vehicle for working papers or copies of published articles and conference papers. Presentations, technical reports, and other works not published elsewhere can also be published in the IR. For more information on institutional repositories please visit the bepress resources page at <a href="https://www.bepress.com/products/digital-commons/resources">https://www.bepress.com/products/digital-commons/resources</a>.
+Institutional Repositories (IRs) bring together all of a University's research under one umbrella, with an aim to preserve and provide access to that research. IRs are an excellent vehicle for working papers or copies of published articles and conference papers. Presentations, technical reports, and other works not published elsewhere can also be published in the IR. For more information on institutional repositories please visit the bepress resources page at [Digital Commons Resources](https://www.bepress.com/products/digital-commons/resources).
 
 ### Who can submit content?
 
 Montclair State University faculty and staff affiliated within a Montclair State University division, department, school or college, institute, center, research team, program, collaborative project, conference, or event may submit content.
 
-Other University-affiliated entities will considered on a case-by-case basis. At the current time, students will not have access to upload their works into the repository but undergraduate works may be added at the discretion of a sponsoring faculty member. Graduate student works will be uploaded at the discretion of The Graduate School. Please contact the repository coordinator if you have any questions regarding student works at <macro cloak_email address="digitalcommons@montclair.edu" link="1">.
+Other University-affiliated entities will considered on a case-by-case basis. At the current time, students will not have access to upload their works into the repository but undergraduate works may be added at the discretion of a sponsoring faculty member. Graduate student works will be uploaded at the discretion of The Graduate School. Please contact the repository coordinator if you have any questions regarding student works at digitalcommons@montclair.edu.
 
 ### What types of materials can be contributed to Montclair State University Digital Commons?
 

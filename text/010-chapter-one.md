@@ -33,7 +33,7 @@ Ordered list:
 1.
 1.
 
-#### Excercise
+#### Exercise
 
 ::: {.question text="Write the question here."} :::
 

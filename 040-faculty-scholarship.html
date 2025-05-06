@@ -10,9 +10,9 @@
     <link rel="stylesheet" href="css/theme-switcher.css">
     <link rel="stylesheet" href="css/html.css">
     <link rel="stylesheet" href="css/custom.css">
-    <title>$title$ | $publisher.name$</title>
+    <title>Digital Commons Policies and Procedures | </title>
 
-    $if(math)$ $math$ $endif$
+    
 
     <!-- Loads AnchorJS library: https://www.bryanbraun.com/anchorjs/ -->
     <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
@@ -21,7 +21,7 @@
             <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
     <![endif]-->
 
-    $for(header-includes)$ $header-includes$ $endfor$
+    
 </head>
 
 <body>
@@ -32,8 +32,8 @@
         </ul>
     </div>
    
-    <h1 class="sr-only">$title$</h1>
-    $for(include-before)$ $include-before$ $endfor$
+    <h1 class="sr-only">Digital Commons Policies and Procedures</h1>
+    
     <main class="container">
         <div class="grid">
             <div class="toc">
@@ -42,8 +42,12 @@
                         <a href="index.html" class="back">
                             Back to Home
                         </a>
-                        <ul>${for(chapter_list)}                      
-                            <li><a href="${it.htmlfile}">${it.chapter_title}</a></li>${endfor}                         
+                        <ul>                      
+                            <li><a href="010-guidelines.html">Montclair State University Digital Commons Guidelines</a></li>                      
+                            <li><a href="020-ETDs.html">Electronic Theses, Dissertations, and Culminating Projects</a></li>                      
+                            <li><a href="030-events.html">Events</a></li>                      
+                            <li><a href="040-faculty-scholarship.html">Scholarship and Creative Works (Faculty)</a></li>                      
+                            <li><a href="080-markdown-cheatsheet.html">Title of Chapter</a></li>                         
                         </ul>
                         <a href="#top" class="back">
                             Back to Top
@@ -52,12 +56,27 @@
                 </aside>
             </div>
             <div class="content" id="#top">
-                <h2>$chapter_title$</h2>
-$body$ $if(definitions)$ ${ definitions.html() } $endif$
+                <h2></h2>
+<h2 id="scholarship-and-creative-works-faculty">Scholarship and Creative Works (Faculty)</h2>
+<p>The Scholarship and Creative Works collections are managed by the Scholarly Communications Librarian and the Library Assistant.</p>
+<h3 id="types-and-formats">Types and Formats</h3>
+<p>The predominant content type is “Article”. Other common formats include:</p>
+<ul>
+<li>Preprint or postprint</li>
+<li>Conference proceeding</li>
+<li>Book chapter or section</li>
+</ul>
+<h3 id="procedures">Procedures</h3>
+<h4 id="submissions">Submissions</h4>
+<p>Faculty or their representative submit their manuscripts through a LibWizard form, including metadata for the publication, and affirmation that they have permission to share the attached copy of the publication under applicable copyright laws. If the faculty member does not have permission, or is not sure, they are instructed to reach out to the Scholarly Communications Librarian.</p>
+<h4 id="ingest">Ingest</h4>
+<p>The Scholarly Communications Librarian or Library Technician will process completed submissions on an ongoing basis, or at minimum once per business week.</p>
+<h4 id="problems">Problems</h4>
+<p>In cases where copyright is not cleared, or submissions are otherwise incomplete, a member of the team will reach out to the submitter for clarification.</p> 
             </div>
         </div>
     </main>
-    $for(include-after)$ $include-after$ $endfor$
+    
 
     <script>
         /* pandoc creates two page titles; let's remove the first one */
